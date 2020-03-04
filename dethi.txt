@@ -1,0 +1,17 @@
+Vi?t Client
+- TCP Port: 4444, UDP Port: 3333, Server Address 127.0.0.1
+- Nh?p username:
+- Nh?p password:
+- Sau dó g?i cho server UDP v?i n?i dung :"Username Password"
+- Server UDP s? g?i l?i cho client m?t chu?i "Password trò choi", sau dó b?n ph?i g?i "
+Password trò choi" d?y sang cho TCP Server d? xác nh?n
+- Sau dó TCP Server s? g?i cho b?n 5 câu h?i ( m?i câu h?i có 4 dáp án A, B, C,D)
+t?t c? d?u g?i theo d?ng chu?i TCP có kí t? xu?ng dòng. B?n hi?n th? các câu h?i và tr? l?i lên màn hinhd và tr? l?i cho TCP Server dáp án A,B,C,D (có kí t? xu?ng dòng)
+- Sau cùng nh?n v? k?t qu? t? Server g?i v?
+- Ðóng Socket khi k?t thúc
+Server ph?c v? song song cho Client ? phái trên
+- TCP Port: 4444, UDP Port: 3333, ServerAddress 127.0.0.1
+- Nh?p username Password c?a client
+- G?i cho Client m?t Password b?t kì, sau dó nh?n l?i Password dó và ki?m tra
+- G?i cho Client 5 câu h?i ( m?i câu h?i 4 câu tr? l?i A B C D) sau dó nh?n câu tr? l?i c?a Client, ki?m tra dúng sai
+- T?ng h?p k?t qu? và g?i cho Client
